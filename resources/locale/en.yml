@@ -1,0 +1,6 @@
+kilowhat-ratings:
+    admin:
+        permissions:
+            view: View ratings
+            submit: Submit ratings
+            moderate: Moderate ratings
